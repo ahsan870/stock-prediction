@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f9d836c-64c9-4f0f-9e6b-f58248773693" name="Changes" comment="funny and honey file">
-      <change afterPath="$PROJECT_DIR$/birthdayCard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/birthdaycard.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/birthdaycard.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-predict.py" afterDir="false" />
+    <list default="true" id="9f9d836c-64c9-4f0f-9e6b-f58248773693" name="Changes" comment="Added birthday card!!">
+      <change afterPath="$PROJECT_DIR$/images/balloonsCard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/black-birthday-with-balloonsCard.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/birthdayCard.py" beforeDir="false" afterPath="$PROJECT_DIR$/birthdayCard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/birthdaycard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/birthdaycard.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,13 +94,32 @@
       <option name="project" value="LOCAL" />
       <updated>1703142507586</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added birthday card!!">
+      <created>1703305807738</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703305807738</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="funny and honey file" />
-    <option name="LAST_COMMIT_MESSAGE" value="funny and honey file" />
+    <MESSAGE value="Added birthday card!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added birthday card!!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
