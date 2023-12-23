@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f9d836c-64c9-4f0f-9e6b-f58248773693" name="Changes" comment="Added birthday card!!">
-      <change afterPath="$PROJECT_DIR$/images/balloonsCard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/black-birthday-with-balloonsCard.png" afterDir="false" />
+    <list default="true" id="9f9d836c-64c9-4f0f-9e6b-f58248773693" name="Changes" comment="Added birthday card updated!!">
+      <change afterPath="$PROJECT_DIR$/image-detection-app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/MonpuraAgrofirm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/design11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/firm1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monpura-agro.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/birthdayCard.py" beforeDir="false" afterPath="$PROJECT_DIR$/birthdayCard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/birthdaycard.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/birthdaycard.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +37,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/ahsan/python-project/stock-prediction/images"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ahsan/python-project/stock-prediction/images&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
@@ -101,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703305807738</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added birthday card updated!!">
+      <created>1703307209573</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703307209573</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,7 +128,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="funny and honey file" />
     <MESSAGE value="Added birthday card!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added birthday card!!" />
+    <MESSAGE value="Added birthday card updated!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added birthday card updated!!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
