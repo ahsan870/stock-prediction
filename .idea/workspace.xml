@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f9d836c-64c9-4f0f-9e6b-f58248773693" name="Changes" comment="Added new app for the agro firm!">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/stock-predict.py" afterDir="false" />
-    </list>
+    <list default="true" id="9f9d836c-64c9-4f0f-9e6b-f58248773693" name="Changes" comment="Added new for stock prediction and moving average!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703323309291</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added new for stock prediction and moving average!">
+      <created>1723965832521</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723965832521</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,7 +135,8 @@
     <MESSAGE value="Added birthday card!!" />
     <MESSAGE value="Added birthday card updated!!" />
     <MESSAGE value="Added new app for the agro firm!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new app for the agro firm!" />
+    <MESSAGE value="Added new for stock prediction and moving average!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new for stock prediction and moving average!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
