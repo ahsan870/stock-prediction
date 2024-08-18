@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f9d836c-64c9-4f0f-9e6b-f58248773693" name="Changes" comment="Added birthday card updated!!">
-      <change afterPath="$PROJECT_DIR$/image-detection-app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/MonpuraAgrofirm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/design11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/firm1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/frame.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/frame2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/monpura-agro.py" afterDir="false" />
+    <list default="true" id="9f9d836c-64c9-4f0f-9e6b-f58248773693" name="Changes" comment="Added new app for the agro firm!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock-predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/stock-predict.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703307209573</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added new app for the agro firm!">
+      <created>1703323309291</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703323309291</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,7 +130,8 @@
     <MESSAGE value="funny and honey file" />
     <MESSAGE value="Added birthday card!!" />
     <MESSAGE value="Added birthday card updated!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added birthday card updated!!" />
+    <MESSAGE value="Added new app for the agro firm!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new app for the agro firm!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
