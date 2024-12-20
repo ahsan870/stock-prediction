@@ -1,0 +1,7 @@
+Total Successful: 1
+Total Failed: 3
+
+Failed URLs:
+http://httpbin.org:80/hello
+http://httpbin.org:443/get
+http://httpbin.org:443/hello
