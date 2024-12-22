@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f9d836c-64c9-4f0f-9e6b-f58248773693" name="Changes" comment="Added requirement file">
-      <change afterPath="$PROJECT_DIR$/images/logo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/monpura-farm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/birthdayCard.py" beforeDir="false" afterPath="$PROJECT_DIR$/birthdayCard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/balloonsCard.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/balloonsCard.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -49,7 +49,7 @@ def birthday_card():
 
     # Display the birthday card if the button is clicked
     if st.session_state.get("show_card", False):
-        image_url = "images/black-birthday-with-balloonsCard.png"
+        image_url = "images/balloonsCard.png"
         st.image(image_url, caption=f"🎉 Let's Celebrate, {birthday_person}!", use_container_width=True)
 
         # Add a predefined birthday message with a funny twist
